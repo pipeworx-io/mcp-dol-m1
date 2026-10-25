@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/dol-m1",
   "title": "Dol M1",
   "description": "DOL Form M-1 — multiple employer welfare arrangement (MEWA) filings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/dol-m1",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-dol-m1",
